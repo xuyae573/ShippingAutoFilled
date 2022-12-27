@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "ShippingAuto": {
+      "commandName": "Project",
+      "hotReloadEnabled": false
+    }
+  }
+}
